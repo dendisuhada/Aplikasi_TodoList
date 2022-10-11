@@ -9,7 +9,7 @@ import static Aplikasi.Aplikasi_ToDoList.ShowTodoList;
 
 /**
  *
- * @author 
+ * @author D
  */
 public class Aplikasi_ToDoList {
 public static String[]model = new String[10];
